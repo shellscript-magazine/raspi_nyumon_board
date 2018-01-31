@@ -2,6 +2,7 @@
 
 ## choucho.py  
 圧電スピーカーで童謡「ほたるのひかり」を演奏するアプリです。次のように実行してください。  
+
 $ sudo apt-get update  
 $ sudo apt-get install python-rpi.gpio python3-rpi.gpio pigpio python-pigpio python3-pigpio  
 $ sudo pigpiod  
