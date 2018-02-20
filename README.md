@@ -7,3 +7,10 @@ $ sudo apt-get update
 $ sudo apt-get install python-rpi.gpio python3-rpi.gpio pigpio python-pigpio python3-pigpio  
 $ sudo pigpiod  
 $ python choucho.py  
+
+## entryboard.py, initial.py
+ラズパイ入門ボードを初期化するプログラムです。次のように実行してください。
+
+$ sudo apt-get update  
+$ sudo apt-get install python-rpi.gpio python3-rpi.gpio
+$ python initial.py
