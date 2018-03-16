@@ -14,3 +14,5 @@ $ python choucho.py
 $ sudo apt-get update  
 $ sudo apt-get install python-rpi.gpio python3-rpi.gpio  
 $ python initial.py
+
+written by Jiro Aso
